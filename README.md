@@ -101,6 +101,7 @@ uv --version
 git clone <your-repo-url>
 cd CODEBASE-REASONING-ENGINE
 uv init .
+uv add fastmcp
 ```
 
 ---
