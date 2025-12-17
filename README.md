@@ -85,7 +85,7 @@ The MCP server is **not tied** to this folder and can be pointed to
 
 Install uv:
 ```
-pip install uv
+pipx install uv
 ```
 
 Verify:
