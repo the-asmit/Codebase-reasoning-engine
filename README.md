@@ -80,7 +80,7 @@ The MCP server is **not tied** to this folder and can be pointed to
 
 ## ⚙️ Prerequisites
 
-- Python 3.10+
+- Python >=3.13
 - `uv` installed
 
 Install uv:
@@ -100,7 +100,7 @@ uv --version
 ```
 git clone <your-repo-url>
 cd CODEBASE-REASONING-ENGINE
-uv sync
+uv init .
 ```
 
 ---
